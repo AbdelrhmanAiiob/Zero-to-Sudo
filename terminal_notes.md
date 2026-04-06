@@ -9,7 +9,7 @@
  * /home = For Normal Users
 
  * /bin  = Have Binaries Executable by All Users
-  * ls, cp, mv, more...
+   * ls, cp, mv, more...
 
  * /boot = For OS Boot Files
 

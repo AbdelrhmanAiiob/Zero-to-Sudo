@@ -1,6 +1,7 @@
 # Zero-to-Sudo 🐧
 ### 📊 My Progress
-- Linux Terminal: [████░░░░░░] 40%
+
+- Linux Terminal: [░░░░░░░░░░] 5%
 
 
 ## Links

@@ -22,3 +22,16 @@
  * /media = When Attach a Device Show Here
 
  * /mnt = Manual Mount a Device
+
+---
+
+## Kernal & Terminal & Shell
+
+* Kernal
+ *
+
+* Terminal 
+ *
+
+* Shell
+ *

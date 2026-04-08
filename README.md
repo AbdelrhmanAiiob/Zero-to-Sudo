@@ -6,4 +6,4 @@
 
 ## Links
 
-- [Terminal Notes](terminal_notes.md)
+- [Notes](linux_notes.md)

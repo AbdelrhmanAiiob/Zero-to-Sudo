@@ -1,4 +1,6 @@
-# Notes
+# [README](README.md) | [Linux_Notes](linux_notes.md)
+
+---
 
 ## Tree
 
@@ -25,9 +27,9 @@
 
 ---
 
-## Kernal & Terminal & Shell
+## Kernel & Terminal & Shell
 
-* Kernal
+* Kernel
   *
 
 * Terminal 

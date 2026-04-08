@@ -1,4 +1,4 @@
-# Terminal Notes
+# Notes
 
 ## Tree
 
@@ -28,10 +28,10 @@
 ## Kernal & Terminal & Shell
 
 * Kernal
- *
+  *
 
 * Terminal 
- *
+  *
 
 * Shell
- *
+  *

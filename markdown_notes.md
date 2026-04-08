@@ -108,7 +108,7 @@ Between => Do `OOP` Rather Than Spaghetti
 
 <!-- ![Title](URL) -->
 
-![image](image.jpeg){width=100px}
+![image](/markdown_images/image.jpeg){width=100px}
 
 <!-- Put Image as a Send Click -->
 <!-- # [![google](google.png){width=100px}](https://www.google.com) -->

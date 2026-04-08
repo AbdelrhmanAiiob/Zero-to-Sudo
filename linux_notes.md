@@ -29,11 +29,11 @@
 
 ## Kernel & Terminal & Shell
 
-* Kernel
-  *
+* Kernel 🫀
+  * the heart and the excuted the orders must be right and clean to excute.
 
-* Terminal 
-  *
+* Terminal 🪟 
+  * 
 
-* Shell
+* Shell 🗣️
   *

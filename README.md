@@ -6,6 +6,6 @@
 
 ## Links
 
-- [Notes](linux_notes.md)
+- [Linux_Notes](linux_notes.md)
 
-- [Markdown](markdown_notes.md)
+- [Markdown_Notes](markdown_notes.md)

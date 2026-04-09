@@ -30,10 +30,10 @@
 ## Kernel & Terminal & Shell
 
 * Kernel 🫀
-  * the heart and the excuted the orders must be right and clean to excute.
+  * The heart of the OS. It manages hardware and executes orders. to work,commands must be precise and clear.
 
-* Terminal 🪟 
-  * 
+* Terminal 🪟
+  * An Interface or "Window" for Input/Output. It captures human-readable commands and displays the results.
 
 * Shell 🗣️
-  *
+  * The Translator. It interprets your text commands into a language the Kernel understands. If the syntax is wrong, it returns an Error to the terminal before the kernel even sees it.
